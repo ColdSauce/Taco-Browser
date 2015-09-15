@@ -26,7 +26,7 @@ Right now, the plan is to just send a bitmap of how the website looks and send "
 
 The most important section of any readme! We would love to receive advice from people about how to implement this but considering it's such a young project it's probably not the best idea to receive development help from people just yet. More is explained about this below. 
 
-Physical items we are in need of (that we could make ourselves but would take a lot longer):
+Physical items we are in need of (that we (or should I say, wilfriedE) could make ourselves but would take a lot longer):
 
 - Modchip for PS1
 - Serial < -- > USB cable
@@ -55,4 +55,10 @@ The reasons I am working on this are:
 
 You could create a mosaic floor and it would be super useful for people walking on it or you could create a stained glass mosiac window and people could look at it but it wouldn't provide much utility. I feel like this project is the latter. Sure, people could use it, but at the end of the day, I don't expect anyone to. It's just a cool project to read about and possibly learn more about the PS1 from.
 
--- Stefan Aleksic (coldsauce)
+#Credit where credit is due
+
+- Coldsauce (Stefan Aleksic) originally came up with the idea. He is working on the software side of things!
+- Sypherio (Steven Teplica) is working on the software side of things as well!
+- WilfriedE (Wilfried Hounyo) is working on tthe hardware side of things. 
+
+We are all 2nd year students at the Rochester Institute of Technology in Rochester, NY.
