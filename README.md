@@ -5,7 +5,7 @@ Toca Browser communicates to a PC which has data connectivity using 2 different 
 
 ##Communicating with the PC
 
-The serial port is simple: get a cable that does USB < -- > PS1 Serial Port
+The serial port is simple: build a cable that does PC Serial port < -- > PS1 Link cable 
 
 The controller part is a bit more complex. Basically what we do is we take two PS1 controllers, cut the cord on both of them, combine the two, plug one end to the PS1, the other end to a PS1 controller cable -> USB adapter, and then plug the USB into your computer.
 
@@ -29,7 +29,7 @@ The most important section of any readme! We would love to receive advice from p
 Physical items we are in need of (that we (or should I say, wilfriedE) could make ourselves but would take a lot longer):
 
 - Modchip for PS1
-- Serial < -- > USB cable
+- PS1 Link Cable < -- > PC Serial Port < -- > (maybe USB) 
 
 We can test everything in an emulator for now, but eventually we will have to test on an actual device.
 
