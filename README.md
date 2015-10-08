@@ -1,7 +1,7 @@
-Toca Browser is probably the world's first internet browser made for the Playstation 1.
+Taco Browser is probably the world's first internet browser made for the Playstation 1.
 
 #How it gets data from the internet
-Toca Browser communicates to a PC which has data connectivity using 2 different mediums: the serial port on the back of every PS1 and using a controller cable.
+Taco Browser communicates to a PC which has data connectivity using 2 different mediums: the serial port on the back of every PS1 and using a controller cable.
 
 ##Communicating with the PC
 
