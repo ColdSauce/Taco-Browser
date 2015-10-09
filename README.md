@@ -1,4 +1,8 @@
-Taco Browser is probably the world's first internet browser made for the Playstation 1.
+#Taco Browser
+
+![taco](https://github.com/ColdSauce/Taco-Browser/blob/master/taco.png?raw=true)
+
+Probably the world's first internet browser made for the Playstation 1.
 
 #How it gets data from the internet
 Taco Browser communicates to a PC which has data connectivity using 2 different mediums: the serial port on the back of every PS1 and using a controller cable.
